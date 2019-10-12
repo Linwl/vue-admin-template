@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 npm -v
+npm config set registry https://registry.npm.taobao.org
 npm install
 npm run build
 image_version=`date +%Y%m%d%H%M`;
