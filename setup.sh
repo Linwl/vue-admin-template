@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+npm -v
+npm install
+npm run build
 image_version=`date +%Y%m%d%H%M`;
 docker stop produce_mrp || true;
 # 删除tongrun_mrp容器
