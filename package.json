@@ -12,7 +12,7 @@
     "pro": "vue-cli-service serve --mode production"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "iview": "^3.3.3",
     "js-cookie": "^2.2.1",
     "moment": "^2.24.0",
