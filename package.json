@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-polyfill": "^6.26.0",
     "vue-template-compiler": "^2.5.21"
   },
